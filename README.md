@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Alex Chen 👋
 
-<!--
-**nathanpenny520-cyber/nathanpenny520-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on: **an open-source React component library** used by 2k+ developers
+🌱 I'm currently learning: **Rust & WebAssembly** — exploring edge computing
+👯 I'm looking to collaborate on: **developer tooling and DX improvements**
+🤔 I'm looking for help with: **technical writing & community management**
+💬 Ask me about: **React, TypeScript, Node.js, system design**
+📫 How to reach me: **alex.chen.dev@gmail.com** · [@alexchen_dev](https://twitter.com/alexchen_dev)
+😄 Pronouns: he/him
+⚡ Fun fact: I once contributed a one-line fix that saved a production outage at 3 AM
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack: `TypeScript` `React` `Node.js` `PostgreSQL` `Docker` `AWS`
+📊 GitHub Stats: ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchen-dev&show_icons=true&theme=tokyonight)
